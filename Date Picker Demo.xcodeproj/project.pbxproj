@@ -63,9 +63,6 @@
 				8CA796E51DD9961900B26C3F /* ViewController.h */,
 				8CA796E61DD9961900B26C3F /* ViewController.m */,
 				8CA796E81DD9961900B26C3F /* Main.storyboard */,
-				8CA796EB1DD9961900B26C3F /* Assets.xcassets */,
-				8CA796ED1DD9961900B26C3F /* LaunchScreen.storyboard */,
-				8CA796F01DD9961900B26C3F /* Info.plist */,
 				8CA796DF1DD9961900B26C3F /* Supporting Files */,
 			);
 			path = "Date Picker Demo";
@@ -74,6 +71,9 @@
 		8CA796DF1DD9961900B26C3F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8CA796EB1DD9961900B26C3F /* Assets.xcassets */,
+				8CA796ED1DD9961900B26C3F /* LaunchScreen.storyboard */,
+				8CA796F01DD9961900B26C3F /* Info.plist */,
 				8CA796E01DD9961900B26C3F /* main.m */,
 			);
 			name = "Supporting Files";
